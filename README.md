@@ -1,5 +1,6 @@
 # fsdse-python-assignment-120
 
+# Find the start of a linked list loop
 ## Constraints
 * Is this a singly linked list?
 	* Yes
